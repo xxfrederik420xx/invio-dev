@@ -1,0 +1,11 @@
+id: professional-modern-dansk
+name: professional-modern-dansk
+version: "1.0.0"
+invio: ">=0.1.0"
+html:
+  path: professional-modern-dansk.html
+  url: https://github.com/xxfrederik420xx/invio-dev/blob/main/professional-modern-dansk.html
+# license: MIT
+# source:
+#   manifestUrl: https://example.com/clean-lines/manifest.yaml
+#   homepage: https://example.com/clean-lines/
