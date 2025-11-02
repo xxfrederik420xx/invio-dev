@@ -1,0 +1,11 @@
+id: clean-lines
+name: Clean Lines
+version: "1.0.0"
+invio: ">=0.1.0"
+html:
+  path: index.html
+  url: https://example.com/clean-lines/index.html
+# license: MIT
+# source:
+#   manifestUrl: https://example.com/clean-lines/manifest.yaml
+#   homepage: https://example.com/clean-lines/
