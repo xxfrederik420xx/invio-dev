@@ -6,6 +6,6 @@ html:
   path: professional-modern-dansk.html
   url: https://github.com/xxfrederik420xx/invio-dev/blob/main/professional-modern-dansk.html
 # license: MIT
-# source:
-#   manifestUrl: https://example.com/clean-lines/manifest.yaml
-#   homepage: https://example.com/clean-lines/
+ source:
+   manifestUrl: https://github.com/xxfrederik420xx/invio-dev/blob/main/prof-modern-dansk.yaml
+   homepage: https://github.com/xxfrederik420xx/invio-dev
